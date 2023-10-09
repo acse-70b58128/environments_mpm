@@ -2,3 +2,6 @@ numpy>1.16
 scipy
 matplotlib
 sympy
+scikit-learn
+pandas
+
