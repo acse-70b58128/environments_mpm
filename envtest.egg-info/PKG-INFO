@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: envtest
+Version: 0.1.dev3+gbe99846
+Summary: Playing with virtual environments.
+Home-page: https://github.com/ese-msc-2021/modern-programming-methods
+Author: Imperial College London
+Author-email: rhodri.nelson@imperial.ac.uk
